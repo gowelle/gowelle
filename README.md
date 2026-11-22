@@ -59,7 +59,7 @@ Each one installs with `composer require gowelle/<name>`.
 - [My Intel Mac was left behind, so I built its local PHP environment myself](https://medium.com/@chiefmfalme/my-intel-mac-was-left-behind-so-i-built-its-local-php-environment-myself-b7d1d0c562ab)
 - [Vue.js support for legacy browsers in Laravel](https://medium.com/@chiefmfalme/vuejs-support-for-legacy-browsers-laravel-bfce528baa33)
 
-More on [Medium](https://medium.com/@chiefmfalme) and at [gowelle.github.io](https://gowelle.github.io/).
+More on [Medium](https://medium.com/@chiefmfalme) and at [gowelle.github.io](https://gowelle.github.io/). I'm [@msadiniPekee](https://x.com/msadiniPekee) on X.
 
 ---
 
