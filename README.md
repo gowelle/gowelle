@@ -10,6 +10,7 @@ I'm a software developer who works in **PHP**, **Laravel** and **Swift**. I buil
 - 🐎 Made [**Paddock**](https://gowelle.github.io/paddock/), a local PHP environment for Intel Macs, because mine refused to retire.
 - 📦 Maintain six Laravel packages that turn awkward APIs into clean code.
 - 🧪 Firm believer that software should work the moment you install it. Mine does, on my machine.
+- 🗂️ [**The catalogue**](https://goel-6yiatanstr2.qoder.website/) — every project here, with the story behind each one.
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777bb4?logo=php&logoColor=white" alt="PHP">
