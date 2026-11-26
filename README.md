@@ -57,6 +57,7 @@ Each one installs with `composer require gowelle/<name>`.
 
 ### ✍️ Writing
 
+- [A Laravel package for Flutterwave v4 that handles the hard parts](https://medium.com/@chiefmfalme/a-laravel-package-for-flutterwave-v4-that-handles-the-hard-parts-1573f30d87bb)
 - [My Intel Mac was left behind, so I built its local PHP environment myself](https://medium.com/@chiefmfalme/my-intel-mac-was-left-behind-so-i-built-its-local-php-environment-myself-b7d1d0c562ab)
 - [Vue.js support for legacy browsers in Laravel](https://medium.com/@chiefmfalme/vuejs-support-for-legacy-browsers-laravel-bfce528baa33)
 
